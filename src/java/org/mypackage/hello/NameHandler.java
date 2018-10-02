@@ -12,7 +12,7 @@ package org.mypackage.hello;
 public class NameHandler {
     private String name;
     
-    //constructor
+    //constructor1
     public NameHandler(){
         name = null;
     }
